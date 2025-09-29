@@ -1,4 +1,4 @@
-Este repositorio contém os arquivos necessários para realização dos testes realizados duranta a Avaliação Experimental do TCC "Extração e estruturação de informações de páginas HTML usando LLMs"
+Este repositorio contém os arquivos necessários para realização dos testes realizados duranta a Avaliação Experimental do TCC: **Extração e estruturação de informações de páginas HTML usando LLMs**.
 
 ### Arquivos:
 
