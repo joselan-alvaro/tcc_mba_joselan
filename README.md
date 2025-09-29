@@ -12,11 +12,15 @@ Arquivo principal responsável por:
 -Exportação dos Resultados no formato CSV e JSON.  
 
 ### style.css, main.js e index.html:
-Arquivos auxiliares para formtação da Interface Web.
+Arquivos auxiliares para formatação da Interface Web.  
+A Interface deve ser aberta em um Navegador no seguinte endereço: http://127.0.0.1:5000/
 
-### index.html 
+#### index.html 
 Responsável pela estrutura da Interface web. Define o conteúdo e a organização hierárquica que será apresentada na página.
-### style.css
+#### style.css
 Responável pela aparência, design e apresentação da página. Usa a estrutura definida no HTML para tornar a página visualmente atraente.
-### index.html
-Adiciona interatividade e lógica funcional à página. Permite que a Interface/página Web responda às ações do usuário e manipule os dados.
+#### index.html
+Adiciona interatividade e lógica funcional à página. Permite que a Interface/página Web responda às ações do usuário e manipule os dados.  
+
+#### Sintaxe de uso:
+> python .\updated_app.py
