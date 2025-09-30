@@ -30,4 +30,4 @@ Responsável pelos cálculos das Metricas ROUGE-1 e BERTScore-F1 para os Resumos
 
 
 #### URLs_Datasets_TCC.txt
-Contem todas as URLs utilizadas, de todos os 4 Datasets, para extração de informação e informações adicionais como data da busca (i.e extração) e como foram realizadas as buscas nos sites.
+Contem todas as URLs utilizadas, de todos os 4 Datasets, para extração dos dados e informações adicionais como data da busca (i.e extração) e como foram realizadas as buscas dos itens nos sites.
